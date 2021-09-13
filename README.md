@@ -17,4 +17,5 @@ More about me: [My Portfolio](https://neelpatel1998.github.io/)
 ⚡ Fun fact: A good programmer is someone who always looks both ways before crossing a one-way street.([Source](https://devrant.com/rants/1008388/a-good-programmer-is-someone-who-always-looks-both-ways-before-crossing-a-one-wa))
 
 
+[![Neel's github stats](https://github-readme-stats.vercel.app/api?username=neelpatel1998)](https://github.com/anuraghazra/github-readme-stats)
 
