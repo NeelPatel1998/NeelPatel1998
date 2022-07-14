@@ -3,7 +3,7 @@
 
 Hi, I'm [Neel Patel](https://neelpatel1998.github.io/), a passionate self-taught individual interested in data science and software development fields. I have completed my bachelors in India at School of Engineering and Applied Science, Ahmedabad University and currently pursuing my masters at University of Windsor in Canada. My passion lies in learning new things, dreaming up ideas and making them come true. I take great care in the experience, code quality of the things I build.
 
-I am currently seeking full-time opportunities in the fields of Software Development or Data Science. I have knowledge of cloud platforms and services they offer. I love to learn new things from the open-source community and I love how collaboration and knowledge is shared in current generation through open-source platforms.
+I am currently seeking full-time opportunities in the field of Software Development or Data Science. I have knowledge of cloud platforms and services they offer. I love to learn new things from the open-source community and I love how collaboration and knowledge is shared in current generation through open-source platforms.
 
 More about me: [My Portfolio](https://neelpatel1998.github.io/)
 
