@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm [Neel Patel](https://neelpatel1998.github.io/), a passionate self-taught individual interested in Software Development, Cloud & AI fields. Having completed my bachelors in India at School of Engineering and Applied Science, Ahmedabad University and my masters at University of Windsor in Canada, I am currently working as Devops Engineer. My passion lies in learning new things, dreaming up ideas and making them come true. I take great care in the experience, code quality of the things I build. I love to learn new things from the open-source community and I love how collaboration and knowledge is shared in current generation through open-source platforms.
+Hi, I'm [Neel Patel](https://neelpatel1998.github.io/), a passionate self-taught individual interested in Software Development, Cloud & AI fields. Having completed my bachelors in India at School of Engineering and Applied Science, Ahmedabad University and my masters at University of Windsor in Canada, I am currently working majorly in Software as well as Devops Field. My passion lies in learning new things, dreaming up ideas and making them come true. I take great care in the experience, code quality of the things I build. I love to learn new things from the open-source community and I love how collaboration and knowledge is shared in current generation through open-source platforms.
 
 More about me: [My Portfolio](https://neelpatel1998.github.io/)
 
